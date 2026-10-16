@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Jean+Pierre+%F0%9F%91%8B;Automatizaci%C3%B3n+con+n8n+%2B+IA;Bots+de+WhatsApp+en+mis+propios+VPS;Docker+%C2%B7+Python+%C2%B7+PostgreSQL" alt="Hola, soy Jean Pierre" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Jean+Pierre;Automatizaci%C3%B3n+con+n8n+%2B+IA;Bots+de+WhatsApp+en+mis+propios+VPS;Docker+%C2%B7+Python+%C2%B7+PostgreSQL" alt="Hola, soy Jean Pierre" />
 
 </div>
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🤖 Construyo **asistentes y automatizaciones** con **n8n**, LLMs (Ollama, OpenRouter) y WhatsApp.
-- 🐳 Despliego todo en **VPS propios con Docker**, accesibles por Tailscale.
-- 🧠 Ahora mismo: un asistente personal por WhatsApp que guarda memorias, tareas, recordatorios y alarmas, y transcribe notas de voz.
-- 🐧 Uso Arch Linux.
+- Construyo **asistentes y automatizaciones** con **n8n**, LLMs (Ollama, OpenRouter) y WhatsApp.
+- Despliego todo en **VPS propios con Docker**, accesibles por Tailscale.
+- Ahora mismo: un asistente personal por WhatsApp que guarda memorias, tareas, recordatorios y alarmas, y transcribe notas de voz.
+- Uso Arch Linux.
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </p>
 
-### 📂 Proyectos
+### Proyectos
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
@@ -38,7 +38,7 @@
 | [Gestion-de-Pedidos](https://github.com/sheaan7/Gestion-de-Pedidos) | Gestión de pedidos | Python |
 | [Sistema de gestión de inventario](https://github.com/sheaan7/Sistema-de-gesti-n-de-inventario-Node.js-) | Inventario con Node.js | JavaScript |
 
-### 📊 Estadísticas
+### Estadísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheaan7&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
@@ -48,7 +48,7 @@
   <img src="https://streak-stats.demolab.com?user=sheaan7&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
-### 🐍
+### Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheaan7/sheaan7/output/github-snake-dark.svg" />
